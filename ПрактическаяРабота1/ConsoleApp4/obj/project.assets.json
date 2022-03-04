@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Slavik\\source\\repos\\ConsoleApp4\\ConsoleApp4\\MyClass.csproj",
+      "projectUniqueName": "D:\\C-Trening\\ПрактическаяРабота1\\ConsoleApp4\\MyClass.csproj",
       "projectName": "MyClass",
-      "projectPath": "C:\\Users\\Slavik\\source\\repos\\ConsoleApp4\\ConsoleApp4\\MyClass.csproj",
+      "projectPath": "D:\\C-Trening\\ПрактическаяРабота1\\ConsoleApp4\\MyClass.csproj",
       "packagesPath": "C:\\Users\\Slavik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Slavik\\source\\repos\\ConsoleApp4\\ConsoleApp4\\obj\\",
+      "outputPath": "D:\\C-Trening\\ПрактическаяРабота1\\ConsoleApp4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Slavik\\AppData\\Roaming\\NuGet\\NuGet.Config",
