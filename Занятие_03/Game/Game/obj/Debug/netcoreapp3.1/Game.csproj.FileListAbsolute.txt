@@ -1,0 +1,14 @@
+D:\C-Trening\Занятие_03\Game\Game\bin\Debug\netcoreapp3.1\Game.exe
+D:\C-Trening\Занятие_03\Game\Game\bin\Debug\netcoreapp3.1\Game.deps.json
+D:\C-Trening\Занятие_03\Game\Game\bin\Debug\netcoreapp3.1\Game.runtimeconfig.json
+D:\C-Trening\Занятие_03\Game\Game\bin\Debug\netcoreapp3.1\Game.runtimeconfig.dev.json
+D:\C-Trening\Занятие_03\Game\Game\bin\Debug\netcoreapp3.1\Game.dll
+D:\C-Trening\Занятие_03\Game\Game\bin\Debug\netcoreapp3.1\Game.pdb
+D:\C-Trening\Занятие_03\Game\Game\obj\Debug\netcoreapp3.1\Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Trening\Занятие_03\Game\Game\obj\Debug\netcoreapp3.1\Game.AssemblyInfoInputs.cache
+D:\C-Trening\Занятие_03\Game\Game\obj\Debug\netcoreapp3.1\Game.AssemblyInfo.cs
+D:\C-Trening\Занятие_03\Game\Game\obj\Debug\netcoreapp3.1\Game.csproj.CoreCompileInputs.cache
+D:\C-Trening\Занятие_03\Game\Game\obj\Debug\netcoreapp3.1\Game.dll
+D:\C-Trening\Занятие_03\Game\Game\obj\Debug\netcoreapp3.1\Game.pdb
+D:\C-Trening\Занятие_03\Game\Game\obj\Debug\netcoreapp3.1\Game.genruntimeconfig.cache
+D:\C-Trening\Занятие_03\Game\Game\obj\Debug\netcoreapp3.1\Game.csproj.AssemblyReference.cache

@@ -1,0 +1,14 @@
+D:\C-Trening\Занятие_03\control_test_3\control_test_3\bin\Debug\netcoreapp3.1\control_test_3.exe
+D:\C-Trening\Занятие_03\control_test_3\control_test_3\bin\Debug\netcoreapp3.1\control_test_3.deps.json
+D:\C-Trening\Занятие_03\control_test_3\control_test_3\bin\Debug\netcoreapp3.1\control_test_3.runtimeconfig.json
+D:\C-Trening\Занятие_03\control_test_3\control_test_3\bin\Debug\netcoreapp3.1\control_test_3.runtimeconfig.dev.json
+D:\C-Trening\Занятие_03\control_test_3\control_test_3\bin\Debug\netcoreapp3.1\control_test_3.dll
+D:\C-Trening\Занятие_03\control_test_3\control_test_3\bin\Debug\netcoreapp3.1\control_test_3.pdb
+D:\C-Trening\Занятие_03\control_test_3\control_test_3\obj\Debug\netcoreapp3.1\control_test_3.csproj.AssemblyReference.cache
+D:\C-Trening\Занятие_03\control_test_3\control_test_3\obj\Debug\netcoreapp3.1\control_test_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Trening\Занятие_03\control_test_3\control_test_3\obj\Debug\netcoreapp3.1\control_test_3.AssemblyInfoInputs.cache
+D:\C-Trening\Занятие_03\control_test_3\control_test_3\obj\Debug\netcoreapp3.1\control_test_3.AssemblyInfo.cs
+D:\C-Trening\Занятие_03\control_test_3\control_test_3\obj\Debug\netcoreapp3.1\control_test_3.csproj.CoreCompileInputs.cache
+D:\C-Trening\Занятие_03\control_test_3\control_test_3\obj\Debug\netcoreapp3.1\control_test_3.dll
+D:\C-Trening\Занятие_03\control_test_3\control_test_3\obj\Debug\netcoreapp3.1\control_test_3.pdb
+D:\C-Trening\Занятие_03\control_test_3\control_test_3\obj\Debug\netcoreapp3.1\control_test_3.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\C-Trening\Занятие_03\MyClassSegment\MyClassSegment\bin\Debug\netcoreapp3.1\MyClassSegment.exe
+D:\C-Trening\Занятие_03\MyClassSegment\MyClassSegment\bin\Debug\netcoreapp3.1\MyClassSegment.deps.json
+D:\C-Trening\Занятие_03\MyClassSegment\MyClassSegment\bin\Debug\netcoreapp3.1\MyClassSegment.runtimeconfig.json
+D:\C-Trening\Занятие_03\MyClassSegment\MyClassSegment\bin\Debug\netcoreapp3.1\MyClassSegment.runtimeconfig.dev.json
+D:\C-Trening\Занятие_03\MyClassSegment\MyClassSegment\bin\Debug\netcoreapp3.1\MyClassSegment.dll
+D:\C-Trening\Занятие_03\MyClassSegment\MyClassSegment\bin\Debug\netcoreapp3.1\MyClassSegment.pdb
+D:\C-Trening\Занятие_03\MyClassSegment\MyClassSegment\obj\Debug\netcoreapp3.1\MyClassSegment.csproj.AssemblyReference.cache
+D:\C-Trening\Занятие_03\MyClassSegment\MyClassSegment\obj\Debug\netcoreapp3.1\MyClassSegment.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Trening\Занятие_03\MyClassSegment\MyClassSegment\obj\Debug\netcoreapp3.1\MyClassSegment.AssemblyInfoInputs.cache
+D:\C-Trening\Занятие_03\MyClassSegment\MyClassSegment\obj\Debug\netcoreapp3.1\MyClassSegment.AssemblyInfo.cs
+D:\C-Trening\Занятие_03\MyClassSegment\MyClassSegment\obj\Debug\netcoreapp3.1\MyClassSegment.csproj.CoreCompileInputs.cache
+D:\C-Trening\Занятие_03\MyClassSegment\MyClassSegment\obj\Debug\netcoreapp3.1\MyClassSegment.dll
+D:\C-Trening\Занятие_03\MyClassSegment\MyClassSegment\obj\Debug\netcoreapp3.1\MyClassSegment.pdb
+D:\C-Trening\Занятие_03\MyClassSegment\MyClassSegment\obj\Debug\netcoreapp3.1\MyClassSegment.genruntimeconfig.cache
