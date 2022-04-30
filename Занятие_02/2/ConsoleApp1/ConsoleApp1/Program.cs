@@ -29,6 +29,11 @@ namespace ConsoleApp1
             Shape square = new Square(4);
             Console.WriteLine("площадь circle: " + circle.Area());
             Console.WriteLine("площадь circle: " + square.Area());
+
+            ArithmeticProgression arithmeticProgression = new ArithmeticProgression(1, 2);
+            GeometricProgression geometricProgression = new GeometricProgression(1, 2);
+            Console.WriteLine(arithmeticProgression.GetElement(3));
+            Console.WriteLine(geometricProgression.GetElement(5));
         }
     }
 }

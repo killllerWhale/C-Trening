@@ -4,7 +4,8 @@ using System.Text;
 
 namespace ConsoleApp1
 {
-    class Progression
+    abstract class Progression
     {
+        abstract public double GetElement(int k);
     }
 }

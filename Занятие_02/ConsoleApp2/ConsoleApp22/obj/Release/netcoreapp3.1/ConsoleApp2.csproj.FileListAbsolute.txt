@@ -1,4 +1,0 @@
-D:\Documents\C-Trening\Занятие_02\ConsoleApp2\ConsoleApp2\obj\Release\netcoreapp3.1\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
-D:\Documents\C-Trening\Занятие_02\ConsoleApp2\ConsoleApp2\obj\Release\netcoreapp3.1\ConsoleApp2.AssemblyInfoInputs.cache
-D:\Documents\C-Trening\Занятие_02\ConsoleApp2\ConsoleApp2\obj\Release\netcoreapp3.1\ConsoleApp2.AssemblyInfo.cs
-D:\Documents\C-Trening\Занятие_02\ConsoleApp2\ConsoleApp2\obj\Release\netcoreapp3.1\ConsoleApp2.csproj.CoreCompileInputs.cache

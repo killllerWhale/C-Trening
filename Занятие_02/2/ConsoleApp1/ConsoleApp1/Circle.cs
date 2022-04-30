@@ -13,7 +13,7 @@ namespace ConsoleApp1
         }
         public override double Area()
         {
-            return ragius * ragius;
+            return ragius * ragius * Math.PI;
         }
     }
 }
