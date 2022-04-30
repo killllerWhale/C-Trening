@@ -12,3 +12,17 @@ D:\C-Trening\Занятие_03\Game\Game\obj\Debug\netcoreapp3.1\Game.dll
 D:\C-Trening\Занятие_03\Game\Game\obj\Debug\netcoreapp3.1\Game.pdb
 D:\C-Trening\Занятие_03\Game\Game\obj\Debug\netcoreapp3.1\Game.genruntimeconfig.cache
 D:\C-Trening\Занятие_03\Game\Game\obj\Debug\netcoreapp3.1\Game.csproj.AssemblyReference.cache
+D:\Documents\C-Trening\Занятие_03\Game\Game\bin\Debug\netcoreapp3.1\Game.exe
+D:\Documents\C-Trening\Занятие_03\Game\Game\bin\Debug\netcoreapp3.1\Game.deps.json
+D:\Documents\C-Trening\Занятие_03\Game\Game\bin\Debug\netcoreapp3.1\Game.runtimeconfig.json
+D:\Documents\C-Trening\Занятие_03\Game\Game\bin\Debug\netcoreapp3.1\Game.runtimeconfig.dev.json
+D:\Documents\C-Trening\Занятие_03\Game\Game\bin\Debug\netcoreapp3.1\Game.dll
+D:\Documents\C-Trening\Занятие_03\Game\Game\bin\Debug\netcoreapp3.1\Game.pdb
+D:\Documents\C-Trening\Занятие_03\Game\Game\obj\Debug\netcoreapp3.1\Game.csproj.AssemblyReference.cache
+D:\Documents\C-Trening\Занятие_03\Game\Game\obj\Debug\netcoreapp3.1\Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\C-Trening\Занятие_03\Game\Game\obj\Debug\netcoreapp3.1\Game.AssemblyInfoInputs.cache
+D:\Documents\C-Trening\Занятие_03\Game\Game\obj\Debug\netcoreapp3.1\Game.AssemblyInfo.cs
+D:\Documents\C-Trening\Занятие_03\Game\Game\obj\Debug\netcoreapp3.1\Game.csproj.CoreCompileInputs.cache
+D:\Documents\C-Trening\Занятие_03\Game\Game\obj\Debug\netcoreapp3.1\Game.dll
+D:\Documents\C-Trening\Занятие_03\Game\Game\obj\Debug\netcoreapp3.1\Game.pdb
+D:\Documents\C-Trening\Занятие_03\Game\Game\obj\Debug\netcoreapp3.1\Game.genruntimeconfig.cache

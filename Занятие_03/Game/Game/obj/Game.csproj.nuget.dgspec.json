@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C-Trening\\Занятие_03\\Game\\Game\\Game.csproj": {}
+    "D:\\Documents\\C-Trening\\Занятие_03\\Game\\Game\\Game.csproj": {}
   },
   "projects": {
-    "D:\\C-Trening\\Занятие_03\\Game\\Game\\Game.csproj": {
+    "D:\\Documents\\C-Trening\\Занятие_03\\Game\\Game\\Game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C-Trening\\Занятие_03\\Game\\Game\\Game.csproj",
+        "projectUniqueName": "D:\\Documents\\C-Trening\\Занятие_03\\Game\\Game\\Game.csproj",
         "projectName": "Game",
-        "projectPath": "D:\\C-Trening\\Занятие_03\\Game\\Game\\Game.csproj",
+        "projectPath": "D:\\Documents\\C-Trening\\Занятие_03\\Game\\Game\\Game.csproj",
         "packagesPath": "C:\\Users\\Slavik\\.nuget\\packages\\",
-        "outputPath": "D:\\C-Trening\\Занятие_03\\Game\\Game\\obj\\",
+        "outputPath": "D:\\Documents\\C-Trening\\Занятие_03\\Game\\Game\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Slavik\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     }

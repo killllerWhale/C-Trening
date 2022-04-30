@@ -1,0 +1,5 @@
+D:\Documents\C-Trening\Занятие_02\ConsoleApp2\ConsoleApp22\obj\Debug\netcoreapp3.1\ConsoleApp22.csproj.AssemblyReference.cache
+D:\Documents\C-Trening\Занятие_02\ConsoleApp2\ConsoleApp22\obj\Debug\netcoreapp3.1\ConsoleApp22.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\C-Trening\Занятие_02\ConsoleApp2\ConsoleApp22\obj\Debug\netcoreapp3.1\ConsoleApp22.AssemblyInfoInputs.cache
+D:\Documents\C-Trening\Занятие_02\ConsoleApp2\ConsoleApp22\obj\Debug\netcoreapp3.1\ConsoleApp22.AssemblyInfo.cs
+D:\Documents\C-Trening\Занятие_02\ConsoleApp2\ConsoleApp22\obj\Debug\netcoreapp3.1\ConsoleApp22.csproj.CoreCompileInputs.cache

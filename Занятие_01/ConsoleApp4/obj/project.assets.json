@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C-Trening\\Занятие_01\\ConsoleApp4\\MyClass.csproj",
+      "projectUniqueName": "D:\\Documents\\C-Trening\\Занятие_01\\ConsoleApp4\\MyClass.csproj",
       "projectName": "MyClass",
-      "projectPath": "D:\\C-Trening\\Занятие_01\\ConsoleApp4\\MyClass.csproj",
+      "projectPath": "D:\\Documents\\C-Trening\\Занятие_01\\ConsoleApp4\\MyClass.csproj",
       "packagesPath": "C:\\Users\\Slavik\\.nuget\\packages\\",
-      "outputPath": "D:\\C-Trening\\Занятие_01\\ConsoleApp4\\obj\\",
+      "outputPath": "D:\\Documents\\C-Trening\\Занятие_01\\ConsoleApp4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Slavik\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,14 @@
+D:\C-Trening\practice5\practice5\bin\Debug\netcoreapp3.1\practice4.exe
+D:\C-Trening\practice5\practice5\bin\Debug\netcoreapp3.1\practice4.deps.json
+D:\C-Trening\practice5\practice5\bin\Debug\netcoreapp3.1\practice4.runtimeconfig.json
+D:\C-Trening\practice5\practice5\bin\Debug\netcoreapp3.1\practice4.runtimeconfig.dev.json
+D:\C-Trening\practice5\practice5\bin\Debug\netcoreapp3.1\practice4.dll
+D:\C-Trening\practice5\practice5\bin\Debug\netcoreapp3.1\practice4.pdb
+D:\C-Trening\practice5\practice5\obj\Debug\netcoreapp3.1\practice4.csproj.AssemblyReference.cache
+D:\C-Trening\practice5\practice5\obj\Debug\netcoreapp3.1\practice4.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Trening\practice5\practice5\obj\Debug\netcoreapp3.1\practice4.AssemblyInfoInputs.cache
+D:\C-Trening\practice5\practice5\obj\Debug\netcoreapp3.1\practice4.AssemblyInfo.cs
+D:\C-Trening\practice5\practice5\obj\Debug\netcoreapp3.1\practice4.csproj.CoreCompileInputs.cache
+D:\C-Trening\practice5\practice5\obj\Debug\netcoreapp3.1\practice4.dll
+D:\C-Trening\practice5\practice5\obj\Debug\netcoreapp3.1\practice4.pdb
+D:\C-Trening\practice5\practice5\obj\Debug\netcoreapp3.1\practice4.genruntimeconfig.cache
